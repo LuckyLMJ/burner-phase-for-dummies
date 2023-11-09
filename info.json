@@ -1,0 +1,9 @@
+{
+  "name" : "burner-phase-for-dummies",
+  "version": "0.1.0",
+  "title" : "Burner Phase for Dummies",
+  "author" : "LuckyLMJ",
+  "description" : "Extends and improves the burner stage",
+  "factorio_version" : "1.1",
+  "dependencies" : ["base >= 1.1", "disable-expensive-mode", "?InserterFuelLeech"]
+}
