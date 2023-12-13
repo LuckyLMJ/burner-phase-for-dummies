@@ -33,8 +33,17 @@ data.raw["technology"]["optics"].prerequisites = {"electricity"}
 data.raw["technology"]["logistics"].unit.ingredients = {{"burner-science-pack", 1}}
 data.raw["technology"]["logistics"].unit.count = 25;
 data.raw["technology"]["military"].unit.ingredients = {{"burner-science-pack", 1}}
-data.raw["technology"]["military"].unit.count = 25;
+data.raw["technology"]["military"].unit.count = 10;
+data.raw["technology"]["gun-turret"].unit.ingredients = {{"burner-science-pack", 1}}
+data.raw["technology"]["gun-turret"].unit.count = 25;
+data.raw["technology"]["stone-wall"].unit.ingredients = {{"burner-science-pack", 1}}
+data.raw["technology"]["stone-wall"].unit.count = 25;
+
 data.raw["technology"]["automation"].unit.count = 100;
+data.raw["technology"]["electronics"].unit.count = 75;
+data.raw["technology"]["fast-inserter"].unit.count = 100;
+data.raw["technology"]["logistic-science-pack"].unit.count = 150;
+
 data.raw["recipe"]["splitter"].ingredients = {{"copper-plate", 5}, {"iron-gear-wheel", 3}, {"transport-belt", 2}}
 data.raw["recipe"]["burner-mining-drill"].ingredients = {{"copper-plate", 2}, {"iron-plate", 5}, {"iron-gear-wheel", 5}, {"stone-furnace", 1}}
 

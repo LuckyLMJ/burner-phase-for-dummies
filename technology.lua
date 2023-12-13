@@ -74,7 +74,7 @@ data:extend(
           	},
           	unit =
          	{
-              	count = 50,
+              	count = 100,
               	ingredients = {{"burner-science-pack", 1}, {"automation-science-pack", 1}},
               	time = 20
           	},
