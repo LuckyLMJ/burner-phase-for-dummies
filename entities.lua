@@ -233,7 +233,7 @@ data:extend(
             },
             energy_usage = "50kW",
             researching_speed = 0.4,
-            inputs = {"burner-science-pack", "automation-science-pack"},
+            inputs = {"burner-science-pack", "automation-science-pack", "logistic-science-pack", "military-science-pack"},
             module_specification = {module_slots = 0},
             allowed_effects = {"consumption", "speed", "pollution", "productivity"}
         },
